@@ -10,10 +10,10 @@ $ npm install
 ```
 #### Configure App
 
-Teamspeak-Newbadge-notifier used the npm package `Pushbullet` by default for sending out notifications, but this is optional and change be changed to anything else.
-The plenty of alternatives for sending of notifications, some of them are: Pushover, Discord Bot, Slack Bot, Telegram Bot etc.
+Teamspeak-Newbadge-notifier used the npm package `Pushbullet` by default for sending out notifications, but this is optional and can be changed to anything else.
+There are plenty of alternatives for sending of notifications, some of them are: Pushover, Discord Bot, Slack Bot, Telegram Bot etc.
 
-If you want to use pushbullet all you have to do is create an account at https://www.pushbullet.com/ and get an access token https://www.pushbullet.com/#settings/account.
+If you want to use pushbullet, all you have to do is create an account over at https://www.pushbullet.com/ and get an access token at this page https://www.pushbullet.com/#settings/account.
 
 Make sure to change the ACCESS_TOKEN in app.js before you run it.
 
