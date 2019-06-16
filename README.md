@@ -8,7 +8,7 @@ $ git clone git@github.com:ewenjo/teamspeak-newbadge-notifier.git
 $ cd teamspeak-newbadge-notifier
 $ npm install
 ```
-#### Configure App
+### Configure App
 
 Teamspeak-Newbadge-notifier used the npm package `Pushbullet` by default for sending out notifications, but this is optional and can be changed to anything else.
 There are plenty of alternatives for sending of notifications, some of them are: Pushover, Discord Bot, Slack Bot, Telegram Bot etc.
